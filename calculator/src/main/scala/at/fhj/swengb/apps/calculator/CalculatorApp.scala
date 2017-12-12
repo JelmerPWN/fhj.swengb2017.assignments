@@ -30,7 +30,7 @@ class CalculatorFX extends javafx.application.Application {
 
   override def start(stage: Stage): Unit =
     try {
-      stage.setTitle("Calculator")
+      stage.setTitle("Calculator by Jelmer Jillings")
       setSkin(stage, fxml, css)
       stage.show()
       stage.setMinWidth(stage.getWidth)

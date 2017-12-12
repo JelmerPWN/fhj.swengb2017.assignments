@@ -1,5 +1,6 @@
 == Time expenditure: Calculator assignment
 
+
 [cols="1,1,4", options="header"]
 .Time expenditure
 |===
@@ -7,16 +8,31 @@
 | Hours
 | Description
 
-| 29.11.17
-| 1
-| Review of this and that
-
-| 30.11.17
-| 5
-| implemented css
-
-| 11.07.17
+| 07.12.17
 | 2
-| fixed bugs
+| Create Buttons
+
+| 07.12.17
+| 1
+| Read the new specification requirements
+
+| 08.12.17
+| 2
+| Making the TimeSheet Specification
+
+| 08.12.17
+| 2
+| Implement the RpnCalculator
+
+| 09.12.17
+| 6
+| fixed some bugs
+
+
+| 12.12.17
+| 6
+| redesign Calculator and finish it
+
+
 
 |===

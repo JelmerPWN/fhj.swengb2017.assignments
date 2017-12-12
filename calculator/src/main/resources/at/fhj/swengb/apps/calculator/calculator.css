@@ -5,6 +5,25 @@
 	-fx-background-color:#00ff00;
 }
 
-#calculator .grey {
-	-fx-background-color:#ff00ff;
+
+
+
+// Action Buttons Enter, Plus, Minus, Times, Divide
+
+#ActionButtons {
+fx-background-color: Orange; 
+fx-text-fill: White;
 }
+
+// Number Buttons from Special 0 to 9
+
+#NumberButtons {
+
+
+}
+
+//Special Action Buttons from XY to Laat Weg
+#SpecialActionButtons{
+
+}
+
